@@ -1,0 +1,3 @@
+Visitor pattern benzer türden nesnelerin grubuyla ilgili işlem yapılırken kullanılan bir design patterndir. Örneğin uygulamamıza bir metot eklemek istiyoruz bu durumda
+sınıfların uyguladığı arayüze ve bu arayüzü uygulayan sınıflara metot yazılır veya eklenmesi gereken sınıflara eklenir. Her yeni ihtiyaç için yeni visitor sınıfları 
+yazıp bunu sınıfımızın kullanmasını sağlayarak bu durumları Visitor tasarım deseni ile ortadan kaldırabiliriz.

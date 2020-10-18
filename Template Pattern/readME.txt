@@ -1,0 +1,4 @@
+Template Pattern sıralı operasyonlar içeren fonksiyonellikler içeren bir design patterndir. Bu pattern bir işlem için gerekli adımları soyut olarak tanımlar ve template pattern ile
+algoritmanın nasıl çalışacağını belirler. Alt sınıflar algoritmaları kendi istekler doğrultusunda çalışmasını sağlarlar. Bu uygulamada bir Game abstract sınıfı tanımlandı.
+Tanımlanan bu sınıfın altına football ve cricket olmak üzere iki somut sınıf tanımlandı. Polymorphism işlemleri ile mainde tanımlanan Game objesi Futbol sınıfından ise Futbol oyunu başladı
+şeklinde bir mesaj alınmaktadır. Eğer mainde tanımlanan Game objesi Cricket sınıfından tanımlanırsa Cricket oyunu başladı şeklinde bir çıktı alınmaktadır.

@@ -1,0 +1,4 @@
+Observer Pattern one to many ilişkisine bağlı tablolarda değişiklik yapmak için kullanılan design patterndır. Örneğin bir değişiklik birden fazla nesneyi etkiliyor ise bu pattern kullanılmalıdır.
+Örneğin bir güncelleme olduğunda toplu mail gönderilmesi gibi düşünülebilir. Yapılan uygulamada Konu adlı sınıf içerisinde bir sayı alınmaktadır ve bu sayı birden fazla sınıfı etkilemektedir.
+Bir sınıfa octal diğer sınıfa binary ve bir diğer sınıfa ise hexa olarak dönüşmektedir. Subject sınıfına gönderilen bu sayı mainden farklı bir sayı olarak setlendiğinde diğer sınıflarda da 
+senkronize bir şekilde değişmektedir.

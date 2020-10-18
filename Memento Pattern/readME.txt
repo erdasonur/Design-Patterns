@@ -1,0 +1,2 @@
+Memento Pattern önceki adımları tutmak için tasarlanmış bir design patterndır. Son yapılan işlemleri geri alma konusunda kullanılan bu design pattern davranışsal bir patterndir.
+Örnek uygulamada ise stateler listeye eklenmektedir ve istenildiği zaman listeden çağırılabilmektedir.

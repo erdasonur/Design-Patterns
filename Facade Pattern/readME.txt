@@ -1,0 +1,1 @@
+Facade pattern nesne oluşumunda arayüz işlemlerini basite indirgeyip karmaşıklıkları ortadan kaldırmaya yarayan bir design patterndir. Örneğin bir şekil interfacemiz olsun ve altında somut 3 sınıf olsun. Facade pattern ile shapemaker adında bir sınıf daha yazıp şekil interface altındaki objeleri burada üretiyoruz. Mainden ulaşım daha basit ve daha az karmaşıklaşmış oluyor.

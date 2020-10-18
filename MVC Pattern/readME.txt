@@ -1,0 +1,3 @@
+Model View Controller olan MVC web tabanlı projeler yapmaya imkan sağlamaktadır. Uygulama verileri Model katmanında, kullanıcının görmesini istediğimiz web sayfaları View katmanında
+ve bu iki katman arasındaki işlemleri yapan ve iletişimi sağlayan katman ise Controller katmanıdır. MVC sayesinde arayüzde yapılan değişikler arkada çalışan kodları etkilememekte 
+ve arka planda değişen kodlar ara yüzü etkilememektedir. 

@@ -1,0 +1,3 @@
+Strategy pattern bir işlemi gerçekleştirirken bir kaç farklı method kullanılacağı zaman işimize yarayan bir design patterndır. Örneğin hesaplama classı olduğunu düşünelim.
+Bu uygulamada 2 sayı almaktayız ve aldığımız bu iki sayıya göre strateji belirliyoruz. Belirlenen stratejiler toplama, çıkartma ve çarpma şeklinde 3 somut sınıf olmaktadır.
+Context adlı sınıf içerisinde strateji belirlenerek sayılar verilmekte ve sonuçları ekranda gözlemlenmektedir.

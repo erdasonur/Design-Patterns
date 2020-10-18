@@ -1,0 +1,3 @@
+Mediator design pattern nesne kümelerinin birbirleriyle nasıl haberleşeceğini soyutlamak için ara nesne kullanan bir design patterndır. Genellikle chat uygulamalarında kullanılır.
+Örnek olarak basit bir User classın oluşturup sendMessage metodu ile ChatRooma nesne ve mesajı göndererek ekrana bastırma işlemini gerçekleşmiştir. 
+Mediator design pattern ile ara nesne kullanılarak tüm bileşenlerin bu nesne üzerinden haberleşmesi sağlanır. Böylece bileşenler arasında sıkı bağ ortadan kaldırılmış olur.
